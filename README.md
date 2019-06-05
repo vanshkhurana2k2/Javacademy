@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Javacademy
 
-You can use the [editor on GitHub](https://github.com/vanshkhurana2k2/Javacademy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Javacademy for learning Java, free now and free forever.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Launching soon...
 
 ### Markdown
 
